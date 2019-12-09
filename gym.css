@@ -1,0 +1,40 @@
+body{
+    background-image: url("img/gympic.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    font-family: 'Nanum Gothic', sans-serif;
+}
+#container{
+    width:50%;
+    border: 1px solid;
+    margin: 10% auto;
+    background-color:#FB5B21;
+    border-radius: 18px;
+    opacity: 0.7;
+    
+}
+#heading{
+    text-align: center;
+    
+    
+
+}
+#heading button{
+    background-color:whitesmoke;
+    color: wheat;
+    padding: 10px;
+    font-size:2em;
+    border-radius: 10px;
+    width:20%;
+    color: black;
+}
+#heading h1{
+    font-size: 4em;
+}
+#heading p{
+    font-size: 1.6em;
+}
+#heading h1 i{
+    color:whitesmoke;
+}
